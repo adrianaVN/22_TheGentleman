@@ -9,7 +9,7 @@ header{
 }
 footer{
 	background-color: #3D3838;
-	color: white;
+	color: gray;
 }
 h5{
 	display: inline-block;
@@ -27,6 +27,7 @@ h5{
 	opacity: 0.5;
 	border-radius:30%;
 	border-style: none;
+	color: white;
 
 }
 #boton2{
@@ -37,6 +38,7 @@ h5{
 	opacity: 0.5;
 	border-radius:30%;
 	border-style: none;
+	color: white;
 
 }
 #boton3{
@@ -46,6 +48,7 @@ h5{
 	background-color: #E62079;
 	border-radius:30%;
 	border-style: none;
+	color: white;
 	
 }
 .color{
@@ -65,4 +68,21 @@ h5{
 }
 #ros{
 	color: #F41CA5;
+}
+.espacio2{
+	margin-top: 2%;
+}
+.input{
+	background-color: #2A2424;
+	opacity: 0.5%;
+	border-style: none;
+	padding: 5%;
+}
+#twitter{
+	width: 60px;
+	height:60px; 
+	margin-left: 25%;
+}
+hr{
+	color: gray;
 }
