@@ -1,0 +1,68 @@
+header{
+	background-color: #3D3838;
+	padding: 2%;
+}
+#paisaje{
+	width: 65%;
+	display: inline-block;
+	margin-left: 5%;
+}
+footer{
+	background-color: #3D3838;
+	color: white;
+}
+h5{
+	display: inline-block;
+}
+.inline{
+	display: inline-block;
+
+
+}
+#boton1{
+	width: 30%;
+	height: 15%;
+	padding: 2%;
+	background-color: #6E6161;
+	opacity: 0.5;
+	border-radius:30%;
+	border-style: none;
+
+}
+#boton2{
+	width: 10%;
+	height: 5%;
+	padding: 1%;
+	background-color: #171515;
+	opacity: 0.5;
+	border-radius:30%;
+	border-style: none;
+
+}
+#boton3{
+	width: 20%;
+	height: 10%;
+	padding: 1%;
+	background-color: #E62079;
+	border-radius:30%;
+	border-style: none;
+	
+}
+.color{
+	background-color: white;
+	padding: 2%;
+}
+.foto{
+	width: 80%;
+	height: 50%;
+
+}
+.mar{
+	margin-left: 5%;
+}
+.espacio{
+	margin-bottom: 2%;
+}
+#ros{
+	color: #F41CA5;
+}
